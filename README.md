@@ -13,8 +13,9 @@ Visit the [DIY Open Sourcerer Skill Page](http://www.diy.org/skills/OpenSourcere
 * sweepowl
 * rpulis
 * burgzt
+* breno
 * bigbrows
 * popojino
 * nusquam
 * Terraffic Hi
-* kststudio
+* kststudiod
